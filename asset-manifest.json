@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Codepen-clone/static/css/main.7d2118c4.chunk.css",
+    "main.js": "/React-Codepen-clone/static/js/main.fab5e29f.chunk.js",
+    "main.js.map": "/React-Codepen-clone/static/js/main.fab5e29f.chunk.js.map",
+    "runtime-main.js": "/React-Codepen-clone/static/js/runtime-main.9cb7aeb0.js",
+    "runtime-main.js.map": "/React-Codepen-clone/static/js/runtime-main.9cb7aeb0.js.map",
+    "static/css/2.85c6439a.chunk.css": "/React-Codepen-clone/static/css/2.85c6439a.chunk.css",
+    "static/js/2.1aa0f0be.chunk.js": "/React-Codepen-clone/static/js/2.1aa0f0be.chunk.js",
+    "static/js/2.1aa0f0be.chunk.js.map": "/React-Codepen-clone/static/js/2.1aa0f0be.chunk.js.map",
+    "index.html": "/React-Codepen-clone/index.html",
+    "precache-manifest.8f62688a1a877080b8fb71aa65e2a3ee.js": "/React-Codepen-clone/precache-manifest.8f62688a1a877080b8fb71aa65e2a3ee.js",
+    "service-worker.js": "/React-Codepen-clone/service-worker.js",
+    "static/css/2.85c6439a.chunk.css.map": "/React-Codepen-clone/static/css/2.85c6439a.chunk.css.map",
+    "static/css/main.7d2118c4.chunk.css.map": "/React-Codepen-clone/static/css/main.7d2118c4.chunk.css.map",
+    "static/js/2.1aa0f0be.chunk.js.LICENSE.txt": "/React-Codepen-clone/static/js/2.1aa0f0be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cb7aeb0.js",
+    "static/css/2.85c6439a.chunk.css",
+    "static/js/2.1aa0f0be.chunk.js",
+    "static/css/main.7d2118c4.chunk.css",
+    "static/js/main.fab5e29f.chunk.js"
+  ]
+}
